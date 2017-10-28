@@ -29,6 +29,6 @@ Home page: https://github.com/Lava97
 
 [Problem 16](https://github.com/Lava97/Project-Euler/blob/master/Euler's%20Project(Problem%2016).py)
 
-[Program 18 and 67](https://github.com/Lava97/Project-Euler/blob/master/Euler's%20Project(Problem%2018%20and%2067).py)
+[Problem 18 and 67](https://github.com/Lava97/Project-Euler/blob/master/Euler's%20Project(Problem%2018%20and%2067).py)
 
-Copyright © 2017. All rights reserved. No warranty.
+
