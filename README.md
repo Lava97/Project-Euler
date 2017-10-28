@@ -8,8 +8,25 @@ This repository contains Lava97's(Lalit Chandwani) program code(Python) to solve
 Find Project Euler Python answers here.
 Home page: https://github.com/Lava97
 
-This code is provided for reference only. You need prior written permission
-to do any of the following: republish the code, publish the code
-with modifications, use/take parts of the code into your own work, etc.
+## Contents
+[README](https://github.com/Lava97/Project-Euler/blob/master/README.md)
+
+[Problem 1](https://github.com/Lava97/Project-Euler/blob/master/Euler's%20Project(Problem%201).py)
+
+[Problem 2](https://github.com/Lava97/Project-Euler/blob/master/Euler's%20Project(Problem%202).py)
+
+[Problem 4](https://github.com/Lava97/Project-Euler/blob/master/Euler's%20Project(Problem%204).py)
+
+[Problem 5](https://github.com/Lava97/Project-Euler/blob/master/Euler's%20Project(Problem%205).py)
+
+[Problem 6](https://github.com/Lava97/Project-Euler/blob/master/Euler's%20Project(Problem%206).py)
+
+[Problem 7](https://github.com/Lava97/Project-Euler/blob/master/Euler's%20Project(Problem%207).py)
+
+[Problem 10](https://github.com/Lava97/Project-Euler/blob/master/Euler's%20Project(Problem%2010).py)
+
+[Problem 11](https://github.com/Lava97/Project-Euler/tree/master/Euler's%20Project(Problem%2011))
+
+[Program 18 and 67](https://github.com/Lava97/Project-Euler/blob/master/Euler's%20Project(Problem%2018%20and%2067).py)
 
 Copyright © 2017. All rights reserved. No warranty.
