@@ -15,6 +15,8 @@ Home page: https://github.com/Lava97
 
 [Problem 2](https://github.com/Lava97/Project-Euler/blob/master/Euler's%20Project(Problem%202).py)
 
+[Problem 3](https://github.com/Lava97/Project-Euler/blob/master/Euler's%20Project(Problem%203).c)
+
 [Problem 4](https://github.com/Lava97/Project-Euler/blob/master/Euler's%20Project(Problem%204).py)
 
 [Problem 5](https://github.com/Lava97/Project-Euler/blob/master/Euler's%20Project(Problem%205).py)
